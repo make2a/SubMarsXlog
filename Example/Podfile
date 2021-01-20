@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LMMarsXlog_Tests' do
+  pod 'LMMarsXlog', :path => '../'
+  
+  
+end

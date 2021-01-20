@@ -1,0 +1,16 @@
+PODS:
+  - LMMarsXlog (0.1.4)
+
+DEPENDENCIES:
+  - LMMarsXlog (from `../`)
+
+EXTERNAL SOURCES:
+  LMMarsXlog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LMMarsXlog: 526ffe465168587ec17a100d6847491466548bf8
+
+PODFILE CHECKSUM: 3203f23b6b723e3cbee70191be87be88bc5cb5a2
+
+COCOAPODS: 1.8.4
