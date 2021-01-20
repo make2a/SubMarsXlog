@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'LMMarsXlog'
+  s.name             = 'SubMarsXlog'
   s.version          = '1.0.0'
-  s.summary          = 'LMMarsXlog 主要是基于微信官方的终端基础组件xlog封装的一套高性能日志模块。'
+  s.summary          = 'SubMarsXlog 主要是基于微信官方的终端基础组件xlog封装的一套高性能日志模块。'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
